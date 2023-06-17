@@ -1,0 +1,3 @@
+[submodule "uavxp_config"]
+	path = uavxp_config
+	url = https://github.com/UAVXP/uavxp_config.git
