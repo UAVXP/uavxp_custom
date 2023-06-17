@@ -1,4 +1,4 @@
-# tf_configs
+# Notes
 Make sure to run toonhud_votehud.bat after each toonhud update
 
 # Steam TF2 parameters
