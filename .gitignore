@@ -2,10 +2,10 @@
 /*
 
 # Allow these
-!toonhud/
+!lighthud/
 !uavxp_config
-!zzz_toonhud_chat/
-!zzz_votehud_custom_font/
+#!zzz_toonhud_chat/
+#!zzz_votehud_custom_font/
 !README.md
 !mastercomfig-disable-pyroland-addon.vpk
 !toonhud_votehud.bat
